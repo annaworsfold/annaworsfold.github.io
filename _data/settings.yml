@@ -8,17 +8,15 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    # - title: 'Blog'
+    #   url: '/blog/'
+    # - title: 'About'
+    #   url: '/about'
+    # - title: 'Contact'
+    #   url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: How to become a finance professional for the future.
 
 hero_settings:
   overlay_opacity: 0.8
@@ -58,7 +56,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/anna-worsfold-18b6b44/'
 
 color_settings:
   background_color: '#ffffff'
